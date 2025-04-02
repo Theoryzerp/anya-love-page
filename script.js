@@ -5,7 +5,7 @@ const messages = [
   "Every second with you feels so good ✨",
   "Stay forever 🙂‍↔️",
   "And of course you're not just cute ... you also make me feel comfortable ☁️",
-  "I feel like I can talk with you about anything at anytime 🌌",
+  "I feel like I can talk with you about anything at anytime 🥺",
   "You’re one of my best parts of my every day, Anya 💕",
 ];
 
