@@ -1,12 +1,12 @@
 const messages = [
-  "You're the cutest person I know.",
-  "Have I mentioned how shiny and gorgeus you are?",
-  "I smile more since I met you hehe.",
-  "Every second with you feels like magic ✨",
-  "When I say 'stay', I mean forever ,
-  "You're not just cute... you're my peace ☁️",
-  "Your eyes are galaxies, and I'm lost in them 🌌",
-  "You’re the best part of my every day, Anya 💕",
+  "You're the cutest person I know 🥹",
+  "Have I mentioned how shiny and gorgeus you are 🥰?",
+  "I smile more since I met you 😋",
+  "Every second with you feels so good ✨",
+  "Stay forever 🙂‍↔️",
+  "And of course you're not just cute ... you also make me feel comfortable ☁️",
+  "I feel like I can talk with you about anything at anytime 🌌",
+  "You’re one of my best parts of my every day, Anya 💕",
 ];
 
 const faces = [
